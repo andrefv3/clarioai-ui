@@ -1,7 +1,7 @@
 # ClarioAI-UI
 
 <p align="center">
-  <img src="./assets/logo.png" alt="ClarioAI Logo" width="880" height="880"/>
+  <img src="/logo.png" alt="ClarioAI Logo" width="880" height="880"/>
 </p>
 
 <h1 align="center">ClarioAI</h1>
