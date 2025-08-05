@@ -1,0 +1,16 @@
+.AppShellWrapper {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100dvh; /* Altura completa del viewport */
+}
+
+.AppShellLeft {
+  width: 20%;
+  height: 100%;
+}
+
+.AppShellRight {
+  width: 80%;
+  height: 100%;
+}
